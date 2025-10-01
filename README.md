@@ -12,5 +12,7 @@ Integrante 1 conflictos encontrados
 <img title="a title" alt="Alt text" src="Captura de pantalla 2025-10-01 142152.png">
 integrante 1 conflictos solucionados
 <img title="a title" alt="Alt text" src="Captura de pantalla 2025-10-01 142525.png">
-
-
+Integrante 2 conflictos encontrados:
+<img title="a title" alt="Alt text" src="Captura de pantalla 2025-10-01 142948.png">
+Integrante 2 conflictos solucionados:
+<img title="a title" alt="Alt text" src="Captura de pantalla 2025-10-01 143101.png">
